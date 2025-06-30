@@ -1,6 +1,4 @@
 
-readme_content = """
-# Jupyter Notebook Analysis
 
 ## Deskripsi
 
