@@ -1,4 +1,3 @@
-# Generate a README.md based on the structure of the Jupyter Notebook
 
 readme_content = """
 # Jupyter Notebook Analysis
