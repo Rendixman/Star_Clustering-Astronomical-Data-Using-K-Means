@@ -1,0 +1,29 @@
+Notebook ini kami buat untuk membantu Anda dalam memahami bagaimana data dapat dianalisis menggunakan Python. 
+Di dalamnya, Anda akan menemukan langkah-langkah yang terstruktur, mulai dari membaca data, membersihkannya, hingga membangun model prediksi untuk mendapatkan wawasan.
+Notebook ini cocok untuk Anda yang sedang belajar atau bekerja dengan data dan ingin langsung melihat penerapannya secara praktis.
+
+  Apa yang bisa Anda lakukan dengan notebook ini
+1.Kenali data Anda: Melihat isi data, statistik deskriptif, dan pola yang tersembunyi.
+2.Bersihkan data Anda: Tangani nilai kosong, duplikasi, atau anomali lain dalam data.
+3.Visualisasikan data Anda: Buat grafik-grafik cantik untuk lebih memahami pola data.
+4.Buat model prediksi: Gunakan algoritma machine learning untuk memprediksi sesuatu berdasarkan data.
+5.Evaluasi hasil Anda: Lihat apakah model Anda bekerja dengan baik atau butuh penyempurnaan.
+
+  Apa yang dibutuhkan
+1.Python (disarankan versi 3.8 atau lebih baru).
+2.Beberapa pustaka Python yang akan membantu Anda, seperti:
+3.pandas untuk bekerja dengan tabel data.
+4.numpy untuk kalkulasi matematika.
+5.matplotlib untuk membuat grafik.
+6.scikit-learn untuk membangun model prediktif.
+
+  Bagaimana cara menggunakannya
+1.Siapkan file dataset Anda
+Pastikan Anda memiliki file data (misalnya, data.csv) yang ingin dianalisis. File ini akan menjadi bahan utama analisis.
+2.Buka notebook ini
+Jalankan perintah berikut untuk membuka file notebook:
+jupyter notebook Untitled1 (1).ipynb
+3.Ikuti langkah-langkahnya
+Jalankan sel notebook satu per satu. Setiap sel memiliki penjelasan tentang apa yang sedang dilakukan, sehingga Anda bisa belajar sambil praktik.
+4.Modifikasi sesuai kebutuhan Anda
+Jika ingin mencoba hal baru, Anda bisa menambahkan atau mengubah kode dalam notebook ini.
